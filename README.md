@@ -1,4 +1,4 @@
-# zhang-latin-school
+# Чжао Сюэцзюнь-latin-school
 <!DOCTYPE html>
 <html lang="ru">
 <head>
